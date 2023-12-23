@@ -1,5 +1,11 @@
-### Hi there 👋
-hello
+### Hi there 👋 
+Here is Hong Shi.
+- 🔭 I’m studying at the University of Memphis as a Data Science major student.
+
+- ⚡ Fun fact: I enjoy hiking, swimming, traveling, badminton, cooking, skiing, jogging， board games, golf, etc.
+
+
+
 
 <!--
 **hongshi5186/hongshi5186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
