@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi👋 
 Here is Hong Shi.
 - 🔭 I’m studying at the University of Memphis as a Data Science major student. Additionally, I have an undergraduate degree in Computer Science.
 - 🌱 I’m currently learning Natural Language Processing and some advanced topics in Machine Learning. I would like to work as a Data Scientist or Machine Learning Engineer in the future.
